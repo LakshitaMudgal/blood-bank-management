@@ -66,11 +66,6 @@ cd lakshitamudgal-blood-bank-management
 - Then right-click again > `Run`.
 - Your browser should open the app (e.g., at `http://localhost:8080/lakshitamudgal-blood-bank-management/`).
 
----
-
-## 📷 Screenshots
-
-_(Add relevant screenshots here for UI clarity)_
 
 ---
 
